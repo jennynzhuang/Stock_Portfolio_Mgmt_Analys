@@ -40,7 +40,7 @@ This project was created as part of the **Mathematics of Finance** class to cons
 - **Jupyter Notebook**: For interactive analysis and visualization.
 
 ## How to Run the Project
-- Open the Jupyter Notebook and run the cells sequentially to replicate the analysis.
+- Open the Jupyter Notebook `portfolio_mgmt_and_analysis.ipynb` and run the cells sequentially to replicate the analysis.
 
 ## Insights and Learnings
 - Practical application of theoretical finance concepts.
